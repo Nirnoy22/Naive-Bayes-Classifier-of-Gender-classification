@@ -1,5 +1,6 @@
 # Naive-Bayes-Classifier-of-Gender-classification
 Naive Bayes Classifier of Gender classification
+
 **About the Project**
 We deploy the trained model to classify the gender of new instances based on their features. This project demonstrates the application of Naive Bayes in real-world classification tasks and highlights its strengths and limitations in handling categorical data for gender classification.
 
