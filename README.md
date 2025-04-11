@@ -21,18 +21,18 @@ Finally, we deploy the trained model to classify the gender of new instances bas
 
 The gender dataset contains various features like :
 
-long_hair : This indicates whether this person has a long hair or not.
+**long_hair :** This indicates whether this person has a long hair or not.
 
-forehead_width_cm : The width of the forehead from right to left given in cm.
+**forehead_width_cm :** The width of the forehead from right to left given in cm.
 
-forehead_height_cm : The width of the forehead width in cm from where the hair grows to the eyebrows.
+**forehead_height_cm :** The width of the forehead width in cm from where the hair grows to the eyebrows.
 
-nose_wide : Whether the nose is wide or not. 1 represents wide and 0 not.
+**nose_wide :** Whether the nose is wide or not. 1 represents wide and 0 not.
 
-nose_long : Whether the nose is long or not. 1 represents long and 0 not.
+**nose_long :** Whether the nose is long or not. 1 represents long and 0 not.
 
-lips_thin : Whether this person has a thin lip or not. 1 represents thin and 0 not.
+**lips_thin :** Whether this person has a thin lip or not. 1 represents thin and 0 not.
 
-distance_nose_to_lip_long : It is the distance from nose to lip is long? 1 represents yes and 0 not.
+**distance_nose_to_lip_long :** It is the distance from nose to lip is long? 1 represents yes and 0 not.
 
-gender : It either Male or Female.
+**gender :** It either Male or Female.
