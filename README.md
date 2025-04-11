@@ -1,7 +1,8 @@
 # Naive-Bayes-Classifier-of-Gender-classification
 Naive Bayes Classifier of Gender classification
 
-**About the Project**
+**About the Project:**
+
 We deploy the trained model to classify the gender of new instances based on their features. This project demonstrates the application of Naive Bayes in real-world classification tasks and highlights its strengths and limitations in handling categorical data for gender classification.
 
 In this project, our goal is to create a gender classification model using the Naive Bayes algorithm. The dataset contains various features like 'long_hair', 'forehead_width_cm', 'forehead_height_cm', 'nose_wide','nose_long', 'lips_thin', 'distance_nose_to_lip_long', along with the gender label ('male' or 'female').
@@ -16,7 +17,8 @@ Here we have also shown an accurecy comparison of different types of Naive Bayes
 
 Finally, we deploy the trained model to classify the gender of new instances based on their features. This project demonstrates the application of Naive Bayes in real-world classification tasks and highlights its strengths and limitations in handling categorical data for gender classification.
 
-**About the DataSet**
+**About the DataSet:**
+
 The gender dataset contains various features like :
 
 long_hair : This indicates whether this person has a long hair or not.
